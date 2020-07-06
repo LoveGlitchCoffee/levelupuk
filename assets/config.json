@@ -1,0 +1,12 @@
+{
+    "Countdown": false,
+    "CountTo": {
+        "Year": 2020,
+        "Month": 4,
+        "Day": 1
+    },
+    "CountEvent": {
+        "Name": "LevelUp UK Special Effects Charity Game Jam",
+        "Link": "https://www.justgiving.com/fundraising/levelupuk"
+    }
+}
